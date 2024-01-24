@@ -69,7 +69,7 @@ function ParallaxSection() {
           transition={{ duration: 3 , spring: 250 }}
           className="text-[22px] md:text-[40px] italic  font-bold mt-[-12rem] text-blue-500"
         >
-          Our community is what makes us special. <br /> And it's what will keep
+          Our community is what makes us special. <br /> And it&apos;s what will keep
           you going
         </motion.h1>
         <motion.p
@@ -77,7 +77,7 @@ function ParallaxSection() {
           transition={{ duration: 3, spring:250 }}
           className="text-[17px] md:text-[20px] text-center text-slate-200 pt-[3rem] px-[2rem]"
         >
-          Joining a gym shouldn't be intimidating. We will help you feel
+          Joining a gym shouldn&apos;t be intimidating. We will help you feel
           comfortable getting started. <br />
           Our trainers have the expertise and training to help you create a plan
           that is best for you.
