@@ -192,7 +192,7 @@ function ContactHero() {
               </li>
               <li className="flex items-center gap-4">
                 <Typography className="font-normal font-bold opacity-80">
-                  One membership allows you access to both gym's, Northlands
+                  One membership allows you access to both gym&apos;s, Northlands
                   Corner and Avianto.
                 </Typography>
               </li>
