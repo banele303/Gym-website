@@ -16,7 +16,7 @@ const GymOwnerDetails = () => {
         <div className="">
           <h2 className="text-3xl font-bold mb-4 text-blue-500">Meet Our Gym Owner</h2>
           <p className="text-gray-700 text-[18px] ">
-            GYM Owner, the visionary behind Emet Gyms and the Emet Academy, is not just a fitness expert; he&apos;s a catalyst for personal growth. With an unwavering commitment to helping others realize their full potential, Nic guides clients towards fitness goals while fostering inner contentment. Here are some milestones from his remarkable journey:"
+            GYM Owner, the visionary behind Emet Gyms and the Emet Academy, is not just a fitness expert; he&apos;s a catalyst for personal growth. With an unwavering commitment to helping others realize their full potential, Nic guides clients towards fitness goals while fostering inner contentment. Here are some milestones from his remarkable journey:
           </p>
 
           <section className="w-full bg-transparent pl-[1rem]">
